@@ -1,0 +1,12 @@
+-4,000000 || -0,653639 || class funcs.Cos;
+-2,000000 || -0,416147 || class funcs.Cos;
+0,000000 || 1,000000 || class funcs.Cos;
+2,000000 || -0,416147 || class funcs.Cos;
+4,000000 || -0,653639 || class funcs.Cos;
+6,000000 || 0,960170 || class funcs.Cos;
+-4,000000 || -1,472169 || class FinalFunction;
+-2,000000 || 0,404701 || class FinalFunction;
+0,000000 || NaN || class FinalFunction;
+2,000000 || 0,204085 || class FinalFunction;
+4,000000 || 1,368392 || class FinalFunction;
+6,000000 || 3,808022 || class FinalFunction;
